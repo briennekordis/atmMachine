@@ -2,6 +2,10 @@
 atmMachine
 
 ## Table of Contents
+- [Description & General Info](https://github.com/briennekordis/atmMachine#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/atmMachine#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/atmMachine#setup--use)
+- [Licensing Information](https://github.com/briennekordis/atmMachine#licensing-information)
 
 ## Description & General Info
 This project creates an application that simulates depositing and withdrawing money from an ATM, including limitations of validating the about of money in the account for a withdrawl.
